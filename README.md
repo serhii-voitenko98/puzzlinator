@@ -1,4 +1,4 @@
-## to run programm just execute solution.js file with node: ``` node solution.js ```
+## to run this programm just execute solution.js file with node: ``` node solution.js ```
 
 # Задача "Паззлинатор"
 
